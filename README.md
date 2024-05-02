@@ -10,4 +10,4 @@ Yurei is a compiler written in C++
 [GNU GPLv3](https://github.com/Jedlord/Yurei/blob/main/LICENSE.txt)
 ## Current Features
 
-- Super basic lexer
+- None
